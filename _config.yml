@@ -17,10 +17,10 @@ title: "Hello. I'm Izildo Pimentel."
 email: 'izildopimentel@gmail.com'
 description: "I'm a software developer located in Rotterdam with a focus on Android Development."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://izildopimentel.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'https://twitter.com/izildo_dev'
-github_username: 'https://github.com/IzildoPimentel'
-medium_username: 'https://medium.com/@izildopimentel'
+url: "https://izildopimentel.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'izildo_dev'
+github_username: 'IzildoPimentel'
+medium_username: 'izildopimentel'
 
 # Build settings
 markdown: kramdown
